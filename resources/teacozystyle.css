@@ -109,3 +109,9 @@ li {
 	height: 700px;
 	background-size: cover;
 }
+
+.locations {
+	background-image: url ('.\resources\images\img-locations-background.jpg'), url( 'https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg');
+	height: 500px;
+	background-size: cover;
+}
